@@ -1,0 +1,6 @@
+Index.html
+index.html
+*.log
+node_modules/
+dist/
+sret
